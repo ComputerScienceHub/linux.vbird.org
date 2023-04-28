@@ -4,7 +4,7 @@
 >Linux 最重要是基礎學習，在這個單元中，我們介紹很多 Linux 基礎觀念！
 
 *   [關於 CentOS 7.x 基礎學習 - 目錄總覽](./)
-*   [第零章、計算機概論](0105computers.php)
+*   [第零章、計算機概論](chapter00.md)
 *   [第一章、Linux是什麼與如何學習](0110whatislinux.php)
 *   [第二章、主機規劃與磁碟分割](0130designlinux.php)
 *   [第三章、安裝 CentOS7.x](0157installcentos7.php)
@@ -39,7 +39,7 @@
 *   [第三部份：學習Shell與Shell Scripts](#第三部份-學習-Shell-與Shell-Scripts)
 *   [第四部份：Linux使用者管理](#第四部份-Linux-使用者管理)
 *   [第五部份：Linux系統管理員](#第五部份-Linux-系統管理員)
-*   [第六部份：其他備份文章](#第六部份-其他備份文章)
+*   [第六部份：其他備份文章](#第六部份：其他備份文章)
 
 ### 第一部份 Linux 的規劃與安裝
 
